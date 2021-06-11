@@ -2232,6 +2232,15 @@
                         }]
                 }, 
                 {
+                 "id":44,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":45,
                  "properties":[
                         {
